@@ -41,7 +41,7 @@ const ContactPage = () => {
       .then((res) => {
         setNotificationData({
           status: "success",
-          title: "Success!",
+          title: "Success!!!",
           message: "Message has been send!",
         });
       })
